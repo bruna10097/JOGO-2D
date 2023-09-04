@@ -1,7 +1,9 @@
 JOGO 2D - The Bizzare Adventures of Odoacro
 
 Categoria: 2D, plataforma, aventura.
+
 Linguagem: C
+
 Ferramentas: Unity, Visual studio
 
 O jogo será focado em streamers, youtubers e toda a comunidade gamer.
